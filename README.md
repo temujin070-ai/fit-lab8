@@ -1,1 +1,1 @@
-# fit-lab8
+print("Hello world")
